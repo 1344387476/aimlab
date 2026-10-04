@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+.vite/
+.npm-cache/
+*.local
+.netlify/
+.agents/
+artifacts/
+deploy-*.zip
